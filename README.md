@@ -1,6 +1,6 @@
 # 🌸 Fleur de Lune
 
-**Fleur de Lune** là một trang web tiệm hoa cao cấp với trải nghiệm mua hoa mang tính cảm xúc — giao diện pastel hiện đại, hiệu ứng chuyển động mượt mà, kèm theo "AI Florist" gợi ý bó hoa và trang quản trị (Admin) đơn giản để chỉnh sửa sản phẩm/nội dung shop.
+**Fleur de Lune** là một trang web tiệm hoa cao cấp với trải nghiệm mua hoa mang tính cảm xúc — giao diện pastel hiện đại, hiệu ứng chuyển động mượt mà, một "linh vật" bướm bay tương tác kèm gợi ý câu thoại theo ngữ cảnh, và trang quản trị (Admin) đơn giản để chỉnh sửa sản phẩm/nội dung shop.
 
 ## ✨ Tech Stack
 
